@@ -1,4 +1,4 @@
-<h1 align="center">🎯 viewX</h1>
+<h1 align="center">🎯 viewX 🎯</h1>
 <p align="center">
   <img src="images/viewX.png" alt="viewX Logo" width="150"/>
 </p>
@@ -9,58 +9,55 @@
 
 ---
 
-## 🕶️ Dark Themed, Fully Customizable
+## 🕶️ What is viewX?
 
-**viewX** is a robust and sleek crosshair system tailored for Roblox players and developers who want precision, style, and control. Whether you're in a competitive FPS or just want a personal touch—**viewX** delivers.
+**viewX** is a in development crosshair tool giving you lots of control over your crosshair for completely free, offering robust customization and easy to use UI, viewX is perfect for most FPS games. Not to mention, it's also completely free! (At least for the moment, no plans on making it not free right now)
 
 ---
 
 ## 🌌 Features
 
-- 🎯 **High Customizability** – Adjust size, shape, gap, thickness, opacity, and more.
-- 🎨 **Color Picker** – Choose any crosshair color, including outlines.
-- 💾 **Presets & Profiles** – Save, load, and switch between your favorite styles.
-- 🖼️ **Image Upload Support** – Use your own crosshair images.
-- ⚙️ **Real-Time Preview** – Instantly see how your changes look.
-- 🔄 **Live Overlay Mode** – Display your crosshair over any game or screen.
-- 🧩 **Modular UI** – Toggle features, preview themes, and switch crosshair types on the fly.
+- 🎯 **High Customizability** – Adjust size, shape, gap, thickness, style, and so much more
+- 🎨 **Color Variety** – Choose any crosshair / outline color
+- 💾 **Presets & Profiles** – viewX offers many different presets / types of crosshairs, suitable for every scenario
+- 🖼️ **Custom Crosshair Images** – Upload images to use as your crosshair, still customizeable using settings
+- 🔄 **Flawless Overlay** – Display your crosshair over any screen, with no interference to your gameplay
+- 🧩 **Simple UI** – UI designed to be simple, effective, and fast to configurate
 
 ---
 
 ## 🌒 Ideal For
 
-- Roblox FPS/TPS games
-- Casual or competitive players
-- Streamers and content creators
-- Custom UI enthusiasts
+- Roblox FPS games
+- Casual and competitive players
+- People wanting more control over their crosshair
 
 ---
 
 ## 📦 Installation
 
-Coming soon in version `0.0.3`...
+**viewX** is currently in development - if you are reading this, and you aren't me (view) - (impossible), release will be implemented once I add security checks and other systems to ensure the integrity of the code, and possibly sign the exe file.
 
 ---
 
-## 📌 Screenshots
+## 📌 Showcase
 
-_Add screenshots or demo GIFs here to showcase the UI and features._
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and issues are welcome!
-Feel free to open a [pull request](https://github.com/your-repo/viewx/pulls) or [issue](https://github.com/your-repo/viewx/issues).
+*Later.*
 
 ---
 
 ## ⚖️ License
 
-MIT License – Do what you want, just give credit.
+viewX - Copyright (c) 2025 @actuallyview / View
+
+This software is proprietary and confidential. All rights reserved.
+
+Unauthorized copying, distribution, modification, decompilation, reverse engineering, or use of this software or any portion of it is strictly prohibited.
+
+You may only use this software in its original, unmodified form, as provided by the author. **By using this software, you agree to these terms.**
 
 ---
 
 <p align="center">
-  <i>Built with ❤️ for the Roblox community</i>
+  <i>Built so the Roblox community can get better aim 🎯</i>
 </p>
