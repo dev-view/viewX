@@ -48,13 +48,13 @@
 
 ## ⚖️ License
 
-viewX - Copyright (c) 2025 @actuallyview / View
+viewX - Copyright (©) 2025 @actuallyview / View
 
 This software is proprietary and confidential. All rights reserved.
 
 Unauthorized copying, distribution, modification, decompilation, reverse engineering, or use of this software or any portion of it is strictly prohibited.
 
-You may only use this software in its original, unmodified form, as provided by the author. **By using this software, you agree to these terms.**
+You may only use this software in its original, unmodified form, as provided by the author, with the express permission of the author. **By using this software, you agree to these terms.**
 
 ---
 
